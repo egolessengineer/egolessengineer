@@ -8,7 +8,6 @@
 
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=egolessengineer&style=flat&color=orange&label=PROFILE+VIEWS)
-[![telegram badge](https://img.shields.io/badge/cryptosimbaceo-grey?style=flat&logo=telegram)](https://t.me/cryptosimbaceo) <br>
 </div>
 
 <hr></hr>
